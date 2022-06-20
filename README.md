@@ -30,6 +30,14 @@ npm run dev
 
 - https://jayprogram.tistory.com/m/87
 
-## 3. 화면 개발
+## 3. Axios 설정
+
+```
+npm i axios
+```
+
+참고
+
+- https://velog.io/@shin6403/React-axios%EB%9E%80-feat.-Fetch-API
 
 ## 4. 배포
